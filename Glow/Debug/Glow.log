@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\burak\source\repos\Glow\Glow\main.cpp(33): warning C4715: 'GetModuleBaseAddress': tüm denetim yolları değer döndürmez
+  Glow.vcxproj -> C:\Users\burak\source\repos\Glow\Debug\Glow.exe
